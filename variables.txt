@@ -1,0 +1,40 @@
+Suburb: Suburb where the property is located
+
+Address: Self-explanatory
+
+Rooms: Number of rooms in the property
+
+Type:
+h - house, cottage, villa, semi-detached, terrace;
+u - unit, duplex;
+t - townhouse;
+
+Price: Price of the property in Australian dollars
+
+Date: Date the property was sold
+
+SellerG: Name of the real estate agent who sold the property
+
+Distance: Distance from CBD in Kilometres
+
+Bathroom: Number of Bathrooms in the property
+
+Car: Number of car spots
+
+Landsize: Land Size in Metres
+
+BuildingArea: Building Size in Metres
+
+YearBuilt: Year the house was built
+
+CouncilArea: Governing council for the area
+
+Lattitude: Self-explanatory
+
+Longtitude: Self-explanatory
+
+Regionname: General Region (West, North West, North, North east …etc)
+
+Propertycount: Number of properties that exist in the suburb
+
+
